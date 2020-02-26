@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468430008 source:c:\users\william\documents\codeblk\estrella\main.cpp
+	<tchar.h>
+	<windows.h>
+	"my_functions.h"
+
+1468430231 c:\users\william\documents\codeblk\estrella\my_functions.h
+
